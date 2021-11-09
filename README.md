@@ -1,8 +1,7 @@
-# C3Imaging
-
-Cognitive, Connected & Computational Imaging Research
+# C3 Imaging Centre at College of Engineering & Informatics, National University of Ireland Galway, Ireland.
 
 ### What is C3 Imaging?
+Cognitive, Connected & Computational Imaging Research
 
 What do we mean by 
 
@@ -15,17 +14,10 @@ and **‘Computational’**?
 A key difference between traditional photography and videography is that digital technology allows us to obtain multiple image frames and the power of today’s devices enables these to be processed in real-time on the device. Some of our lead investigators were pioneers, introducing red-eye correction and face tracking on digital devices more than a decade ago. 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Research Publications: 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. A Multispeaker Transfer Learning approach to generate synthetic child voices [Link](https://c3imaging.github.io/ChildTTS/)
 
 **Bold** and _Italic_ and `Code` text
 
