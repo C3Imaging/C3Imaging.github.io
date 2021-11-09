@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+# C3Imaging
 
-You can use the [editor on GitHub](https://github.com/C3Imaging/C3Imaging.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Cognitive, Connected & Computational Imaging Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is C3 Imaging?
 
-### Markdown
+What do we mean by 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**‘Cognitive’**?, Cognitive implies that there is more to an image than a collection of pixels. In the same way that photography captures a ‘moment in time’, our digital devices are capable of extending this concept to ‘understanding’ that moment …
+
+**‘Connected’** ?,
+Unless you’ve been living under a rock you’ve probably heard of the ‘Internet of Things’? Well imaging enters a new paradigm when you link it to the capabilities of today’s networks and mobile devices – but we are interested in much more than simply uploading images and video to the Cloud; when you combine connectivity with advanced ‘edge’ processing then you are at the frontiers  of Connected imaging …
+
+and **‘Computational’**?
+A key difference between traditional photography and videography is that digital technology allows us to obtain multiple image frames and the power of today’s devices enables these to be processed in real-time on the device. Some of our lead investigators were pioneers, introducing red-eye correction and face tracking on digital devices more than a decade ago. 
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +32,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/C3Imaging/C3Imaging.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<footer>
+  <p>Funded by Science Foundation Ireland (SFI), Irish Research Council (IRC) and Fotonation Ltd.</p>
+</footer>
