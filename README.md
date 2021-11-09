@@ -16,4 +16,4 @@ A key difference between traditional photography and videography is that digital
 
 ### Research Publications: 
 
-1. A Multispeaker Transfer Learning approach to generate synthetic child voices [A Multispeaker Transfer Learning approach to generate synthetic child voices](https://c3imaging.github.io/ChildTTS/)
+1. [A Multispeaker Transfer Learning approach to generate synthetic child voices](https://c3imaging.github.io/ChildTTS/)
